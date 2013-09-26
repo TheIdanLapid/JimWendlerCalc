@@ -3,7 +3,7 @@
 
     <string name="app_name">5/3/1 Calculator</string>
     <string name="action_settings">Settings</string>
-    <string name="warning">Total free weights (no bar)</string>
+    <string name="warning">Total free weight (no bar)</string>
 
     <string name="saved_squat_settings">com.idan.jimwendlercalc.saved_squat</string>
     <string name="saved_press_settings">com.idan.jimwendlercalc.saved_press</string>

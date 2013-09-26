@@ -11,7 +11,7 @@
     <string name="saved_deadlift_settings">com.idan.jimwendlercalc.saved_deadlift</string>
     <string name="saved_press_settings">com.idan.jimwendlercalc.saved_press</string>
     <string name="saved_squat_settings">com.idan.jimwendlercalc.saved_squat</string>
-    <string name="warning">Total free weights (no bar)</string>
+    <string name="warning">Total free weight (no bar)</string>
     <!-- From: file:/C:/Users/Idan/AndroidStudioProjects/JimWendlerCalcProject/JimWendlerCalc/src/main/res/values/styles.xml -->
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--
